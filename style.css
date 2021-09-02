@@ -1,22 +1,49 @@
 .artist-title{font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
 
 }
+
+
+
 .korn{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
 }
+
+
+
 .linkin-park{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
 }
+
+
 .disturbed{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
 }
+
+
 .eminem{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
 }
+
+
+
 .ffdp{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
 }
 .artsit-page{
-    background-image:
-    url("media/examples/lizard.png");
+    
+    
+
+}
+.top-five{
+    text-align: center;
+}
+
+.artist-color{
+    background-color: ;
 }
